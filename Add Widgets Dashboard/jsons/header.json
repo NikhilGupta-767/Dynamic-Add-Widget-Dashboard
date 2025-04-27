@@ -1,0 +1,22 @@
+{
+    "path":[
+        {
+            "name": "Home"
+        },
+        {
+            "name": "Dashboard V2"
+        }
+    ],
+    "search":{
+        "placeholder": "Search anything...",
+        "icon": "search"
+    },
+    "actions":[
+        {
+            "name": "Notification"
+        },
+        {
+            "name": "LogOut"
+        }
+    ]
+}

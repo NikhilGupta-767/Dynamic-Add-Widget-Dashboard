@@ -1,0 +1,38 @@
+{
+    "id":1,
+    "activeCards":[1,2],
+    "cards":[
+        {
+            "id":0,
+            "title": "Top 5 NamesSpace Specific Alerts",
+            "description": "No Graph data available",
+            "icon": "barGraph",
+            "data":{}
+
+        },
+        {
+            "id":1,
+            "title": "WorkLoad Alerts",
+            "description": "No Graph data available",
+            "icon": "barGraph",
+            "data":{}
+
+        },
+        {
+            "id":2,
+            "title": "Top 5 NamesSpace Specific Alerts",
+            "description": "No Graph data available",
+            "icon": "barGraph",
+            "data":{}
+
+        },
+        {
+            "id":3,
+            "title": "WorkLoad Alerts",
+            "description": "No Graph data available",
+            "icon": "barGraph",
+            "data":{}
+
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "id":2,
+    "activeCards":[0,3],
+    "cards":[
+        {
+            "id":0,
+            "title": "Image Risk Assessment",
+            "valueLabel": "Total Vulnerabilities",
+            "legends":[
+                {
+                    "title":"Critical",
+                    "value":23,
+                    "color":"#7D0A0A"
+                },
+                {
+                    "title":"Very High",
+                    "value":45,
+                    "color":"#BF3131"
+                },
+                {
+                    "title":"High",
+                    "value":26,
+                    "color":"#FF9B17"
+                },
+                {
+                    "title":"Medium",
+                    "value":75,
+                    "color":"#F16767"
+                },
+                {
+                    "title":"Low",
+                    "value":64,
+                    "color":"#EAD196"
+                },
+                {
+                    "title":"Very Low",
+                    "value":36,
+                    "color":"#EEEEEE"
+                }
+            ]
+
+        },
+        {
+            "id":1,
+            "title": "Image Security Issue",
+            "valueLabel": "Total Images",
+            "legends":[
+                {
+                    "title":"Critical",
+                    "value":53,
+                    "color":"#7D0A0A"
+                },
+                {
+                    "title":"Very High",
+                    "value":12,
+                    "color":"#BF3131"
+                },
+                {
+                    "title":"High",
+                    "value":21,
+                    "color":"#FF9B17"
+                },
+                {
+                    "title":"Medium",
+                    "value":34,
+                    "color":"#F16767"
+                },
+                {
+                    "title":"Low",
+                    "value":53,
+                    "color":"#EAD196"
+                },
+                {
+                    "title":"Very Low",
+                    "value":75,
+                    "color":"#EEEEEE"
+                }
+            ]
+
+        },
+        {
+            "id":2,
+            "title": "Image Risk Assessment",
+            "valueLabel": "Total Vulnerabilities",
+            "legends":[
+                {
+                    "title":"Critical",
+                    "value":23,
+                    "color":"#7D0A0A"
+                },
+                {
+                    "title":"Very High",
+                    "value":45,
+                    "color":"#BF3131"
+                },
+                {
+                    "title":"High",
+                    "value":26,
+                    "color":"#FF9B17"
+                },
+                {
+                    "title":"Medium",
+                    "value":75,
+                    "color":"#F16767"
+                },
+                {
+                    "title":"Low",
+                    "value":64,
+                    "color":"#EAD196"
+                },
+                {
+                    "title":"Very Low",
+                    "value":36,
+                    "color":"#EEEEEE"
+                }
+            ]
+
+        },
+        {
+            "id":3,
+            "title": "Image Security Issue",
+            "valueLabel": "Total Images",
+            "legends":[
+                {
+                    "title":"Critical",
+                    "value":53,
+                    "color":"#7D0A0A"
+                },
+                {
+                    "title":"Very High",
+                    "value":12,
+                    "color":"#BF3131"
+                },
+                {
+                    "title":"High",
+                    "value":21,
+                    "color":"#FF9B17"
+                },
+                {
+                    "title":"Medium",
+                    "value":34,
+                    "color":"#F16767"
+                },
+                {
+                    "title":"Low",
+                    "value":53,
+                    "color":"#EAD196"
+                },
+                {
+                    "title":"Very Low",
+                    "value":75,
+                    "color":"#EEEEEE"
+                }
+            ]
+
+        }
+    ]
+}
