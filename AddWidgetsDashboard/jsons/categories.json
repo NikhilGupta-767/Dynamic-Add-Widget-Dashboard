@@ -1,0 +1,23 @@
+{
+    "title": "CNAPP Dashboard",
+    "categories":[
+        {
+            "id":0,
+            "title": "CSPN Executive Dashboard",
+            "type": "doughnut",
+            "url": "/jsons/doughnut.json"
+        },
+        {
+            "id":1,
+            "title": "CWPP Dashboard",
+            "type": "graph",
+            "url": "/jsons/CWPP.json"
+        },
+        {
+            "id":2,
+            "title": "Registry Scan",
+            "type": "progressBarChart",
+            "url": "/jsons/Registry.json"
+        }
+    ]
+}

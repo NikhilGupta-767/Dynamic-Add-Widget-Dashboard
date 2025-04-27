@@ -1,0 +1,83 @@
+{
+    "overlayTitle": "Add Widget",
+    "description": "Personalize your dashboard by adding the following widget",
+    "actions": [
+        {
+            "title": "Cancel"
+        },
+        {
+            "title": "Confirm"
+        }
+    ],
+    "tabs": [
+        {
+            "id":0,
+            "title": "CSPN",
+            "activeWidgets":[0,1],
+            "widgets": [
+                {
+                    "id": 0,
+                    "name": "Cloud Accounts"
+                },
+                {
+                    "id": 1,
+                    "name": "Cloud Accounts Risk Assessment"
+                },
+                {
+                    "id": 2,
+                    "name": "Cloud Accounts"
+                },
+                {
+                    "id": 3,
+                    "name": "Cloud Accounts Risk Assessment"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "title": "CWPP",
+            "activeWidgets":[1,2],
+            "widgets": [
+                {
+                    "id": 0,
+                    "name": "Top 5 NamesSpace Specific Alerts"
+                },
+                {
+                    "id": 1,
+                    "name": "WorkLoad Alerts"
+                },
+                {
+                    "id": 2,
+                    "name": "Top 5 NamesSpace Specific Alerts"
+                },
+                {
+                    "id": 3,
+                    "name": "WorkLoad Alerts"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "title": "Registry",
+            "activeWidgets":[0,3],
+            "widgets": [
+                {
+                    "id": 0,
+                    "name": "Image RIsk Assessment"
+                },
+                {
+                    "id": 1,
+                    "name": "Image Security Issue"
+                },
+                {
+                    "id": 2,
+                    "name": "Image RIsk Assessment"
+                },
+                {
+                    "id": 3,
+                    "name": "Image Security Issue"
+                }
+            ]
+        }
+    ]
+}
