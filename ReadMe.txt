@@ -1,12 +1,3 @@
-To Setup
-
-1. Create a React Project
-2. Install Dependencies ( npm install lodash chart.js react-chartjs-2 )
-3. Replace the src folder with this project src.
-4. Add jsons folder from this project to the public folder.
-5. Run the project.
-
-
 Project Description: Dashboard Widget Management
 
 This project allows users to easily manage and customize their dashboard by adding or removing widgets. The core functionality of the project includes:
@@ -24,3 +15,11 @@ This project aims to provide users with a flexible and personalized dashboard ex
 
 Note*
 As the project runs locally, json cannot be updated at run time. So every time user opens the sidebar ( through add widget button ) it will open with the default widgets selected even after user has once configured the widgets.
+
+To Setup
+
+1. Create a React Project
+2. Install Dependencies ( npm install lodash chart.js react-chartjs-2 )
+3. Replace the src folder with this project src.
+4. Add jsons folder from this project to the public folder.
+5. Run the project.
